@@ -13,7 +13,7 @@ The Multithreaded Order Book Builder is a program designed to compile order data
 
 ### Prerequisites
 
-- C++ compiler compatible with C++11 or higher.
+- C++ compiler compatible with C++20 or higher.
 - Standard Template Library (STL) support.
 - CMake (optional, for building the project).
 
